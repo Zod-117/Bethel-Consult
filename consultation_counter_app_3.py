@@ -8,13 +8,16 @@ grouped_services = {
         "General OPD Consultation Adult",
         "General OPD Consultation Child",
         "Review Consultation - Review",
+        "Review Consultation",
         "Internal OPD Consultation"
     ],
     "Dressing / Minor Procedures": [
         "Dressing And Major Suturing >= 12 Yrs",
+        "Dressing And Major Suturing >=12 Yrs",
         "(GENERAL) Change of Dressing Minor",
         "(GENERAL) Change of Dressing < 12 Yrs",
         "Dressing And Minor Suturing >= 12 Yrs",
+        "Dressing And Minor Suturing >=12 Yrs",
         "Dressing And Minor Suturing <12 Yrs",
         "IUD >=12Yrs",
         "Dressing And Major Suturing <12 Yrs",
@@ -22,14 +25,23 @@ grouped_services = {
     ],
     "Scans / Diagnostics": [
         "PELVIC SCAN",
+        "Pelvic Scan",
         "ABDOMINOPELVIC",
+        "Abdominopelvic",
+        "Abdominal Scan",
+        "ABDOMINAL SCAN",
         "ElectroCardlography (ECG)",
+        "Electrocardiography (ECG)",
         "OBSTETRIC SCAN",
-        "BREAST SCAN"
+        "Obstetric Scan",
+        "BREAST SCAN",
+        "Breast Scan"
     ],
     "Maternal Health (ANC/PNC)": [
         "Antenatal Consultation",
         "Postnatal Consultation",
+        "Obstetrics Consultation",
+        "Internal Anc Consultation",
         "INTERNAL ANC CONSULATION"
     ],
     "Eye Clinic": [
@@ -40,20 +52,35 @@ grouped_services = {
     ],
     "Mental Health": [
         "MENTAL HEALTH CONSULTATION ADULT",
+        "Mental Health Consultation Adult",
         "MENTAL HEALTH CONSULTATION CHILD",
+        "Mental Health Consultation Child",
         "MENTAL HEALTH REVIEW CONSULTATION",
-        "INTERNAL MENTAL HEALTH UNIT CONSULTATION"
+        "Mental Health Review COnsultation",
+        "INTERNAL MENTAL HEALTH UNIT CONSULTATION",
+        "Internal Mental Health Unit COnsultation"
     ],
     "ENT": [
         "ENT CONSULTATION",
+        "ENT Consultation",
         "ENT REVIEW CONSULTATION",
+        "ENT Review Consultation",
+        "ENT Review Consultation",
+        "Ent Review  Consultation",
+        "Ent Internal Consultation",
         "ENT INTERNAL CONSULTATION",
-        "ENT SPECIALIST CONSULTATION"
+        "ENT Internal Consultation",
+        "Ent Internal Consultation",
+        "Ent Internal  Consultation",
+        "ENT SPECIALIST CONSULTATION",
+        "ENT Specialist Consultation"
     ],
     "Dental": [
         "Dental Consultation Adult",
         "Dental Consultation Child",
         "Dental Review Consultation",
+        "Forceps Extraction Adult",
+        "Scaling And Polishing Adults",
         "Internal Dental Consultation"
     ],
     "Dietetic": [
